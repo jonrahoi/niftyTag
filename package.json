@@ -1,0 +1,25 @@
+{
+  "name": "tag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonrahoi/niftyTag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonrahoi/niftyTag/issues"
+  },
+  "homepage": "https://github.com/jonrahoi/niftyTag#readme",
+  "dependencies": {
+    "hapi": "^17.4.0",
+    "inert": "^5.1.0",
+    "joi": "^13.3.0"
+  }
+}
